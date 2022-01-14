@@ -110,6 +110,7 @@ _Libraries for cross platform GUI development_
 - [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html) - Racket GUI library (core distribution).
 - [gui-widget-mixins](https://pkgs.racket-lang.org/package/gui-widget-mixins) - Tool tips, cue text and validation for text-field% GUI widgets in Racket.
 - [map-widget](https://pkgs.racket-lang.org/package/map-widget) - A Racket GUI Widget to display maps based on OpenStreetMap tiles
+- [gui-easy](https://github.com/Bogdanp/racket-gui-easy) - A declarative API on top of `racket/gui`.
 More at [packages tagged `GUI`](https://pkgd.racket-lang.org/pkgn/search?q=&tags=gui).
 
 ## Game Development
